@@ -18,7 +18,8 @@
 go.work
 
 # Binary
-orchestrator
+/orchestrator
+!/pkg/orchestrator/
 
 # IDEs and editors
 .idea/
